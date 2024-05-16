@@ -6,6 +6,10 @@ public class BankingServices
 	{
 		System.out.println("This is account creation");
 	}
+	public void verifyAccount()
+	{
+		System.out.println("This is account verification service")
+	}
 	public void creditAmount()
 	{
 		System.out.println("This is amount credit service");
