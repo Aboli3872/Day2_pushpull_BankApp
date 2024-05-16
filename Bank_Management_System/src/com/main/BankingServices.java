@@ -18,6 +18,10 @@ public class BankingServices
 	{
 		System.out.println("This is amount credit service");
 	}
+	public void ApplyAtm()
+	{
+		System.out.println("This is ATM card service");
+	}
 	public static void main(String[] args)
 	{
 		System.out.println("welcome to banking management App");
